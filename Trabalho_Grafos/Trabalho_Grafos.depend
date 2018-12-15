@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1453673388 source:c:\users\paloma gomes\desktop\trabalho_grafos\main.c
+	"stdio.h"
+	"stdlib.h"
+	"Grafos.h"
+	"Grafos2.h"
+
+1453673705 c:\users\paloma gomes\desktop\trabalho_grafos\grafos.h
+	<stdio.h>
+	<stdlib.h>
+
+1453663142 c:\users\paloma gomes\desktop\trabalho_grafos\grafos2.h
+
+1453769219 source:c:\users\poxet\desktop\trabalho_grafos\trabalho_grafos\main.c
+	"stdio.h"
+	"stdlib.h"
+	"Grafos.h"
+
+1453771220 c:\users\poxet\desktop\trabalho_grafos\trabalho_grafos\grafos.h
+	<stdio.h>
+	<stdlib.h>
+
+1453681142 c:\users\poxet\desktop\trabalho_grafos\trabalho_grafos\grafos2.h
+
+1453769219 source:c:\users\poxet\desktop\trabalho_grafos - copy\trabalho_grafos\main.c
+	"stdio.h"
+	"stdlib.h"
+	"Grafos.h"
+
+1453785612 c:\users\poxet\desktop\trabalho_grafos - copy\trabalho_grafos\grafos.h
+	<stdio.h>
+	<stdlib.h>
+
